@@ -1,8 +1,7 @@
-# [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=38C2FF&random=false&width=435&lines=¡Hola!+Soy+Edwin+Jaret+👋;Desarrollador+Full+Stack+💻;Estudiante+de+Ingeniería+🎓)](https://git.io/typing-svg)
+# [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=38C2FF&random=false&width=435&lines=¡Hola!+Soy+Edwin+Jaret+👋;Estudiante+de+Ingeniería+🎓)](https://git.io/typing-svg)
 
 <div align="center">
   <img src="https://img.shields.io/badge/-México-E50914?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAAACXBIWXMAAAsTAAALEwEAmpwYAAACrklEQVR4nO2Wu2sUURTGx0QTsRKNhSi+EAsLEUlhp4KgZSysBH+AFhYqqI02YqMoWAgq2GhlRLFQBAURK1/4KHwgGISYGPOKr6iPxPye7JnM7s7Mzk42FuKBy+7MPfe75/vOOXfHcf7nP0khA70YTi7gZpK1SbfLiR3oxwKOo5hXUAtlMI4iLsaE34qDWJ8k/Dr24Qc+YBnL8BaP8RUDcT1RxKUk8Mu4jw8YE/ASTAgDWMIjfMIChqR8PuEVirFABnEhSfgHvMMIFqFPjJjEO3zEJHpQi024h8+x4Is4nwR+Bu/xXGqfwwHplFHVhWMFz/BF75OSiKlgFpf1gVHnl/DcpLYtAuBB+ZvELVzBD7kkZkY9kh1IB7/mMk3j1NrxCLXPfZhb8qJbSr2XNLFGt9OUQIjw7doHM+VR0hzkXWXg0V6gN6Q26uMRlnIk4RI93HCAQGMtUmb2qE44jUu4jI84h3V24Vst4kEVqx5Mh4SXojPQYPBxPjmD0zJi9xZ6D1tGlDfMIDMTyukiT6Lx1/oOUxJgUWuRV2EcV3EbGR0s3gTf9mKDX0W7dlIWLfZSHJD6LU5oMxaVhXspH9Y53KDHBaL4KCXUGxA+oGO53Z7HfhzSpmyzWZCq8gXhF2Nt6wlZVQrdUniSdmJvKIGlhHGHYs8K24vbsU0b8aHNGNVpiqrnFe+cYwNPohXHdLB0qSccndXDUZ+LxA7hm3Q5mR1Y9K/gNnwv4S/UPDToPAapcyXkHZaxCM3O34XDOj2NCkRE6oq04Cna0KK+zxmV8QTt0SgJlm0q3xwOq9p23ERH3Dj+s+QmcQ+tOqOT2Iz1qvsBXdMFPNWnxlWH+xpONp19DQlsU/vdLYUa0v2P//EcZzoLEkQaqJ0AAAAASUVORK5CYII=">
-  <img src="https://img.shields.io/badge/-Puebla-4D7BE5?style=for-the-badge">
 </div>
 
 <div align="center">
@@ -13,7 +12,7 @@
 public class SoftwareEngineer
 {
     public string Name { get; set; } = "Edwin Jaret";
-    public string Role { get; set; } = "Ingeniero en Desarrollo y Gestión de Software";
+    public string Role { get; set; } = "TSU en Desarrollo y Gestión de Software";
     public Dictionary<string, string[]> Skills { get; set; } = new()
     {
         { "Backend", new[] { "C#", ".NET", "PHP", "SQL Server" } },
@@ -50,21 +49,13 @@ public class SoftwareEngineer
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Edwin-Jaret&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
 
-## 🌟 Proyectos Destacados
-
-<div align="center">
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Edwin-Jaret&repo=TU-REPOSITORIO&theme=tokyonight)](https://github.com/Edwin-Jaret/TU-REPOSITORIO)
-
-</div>
 
 ## 📫 Contacto
 
 <div align="center">
   
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](tu_linkedin)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tu@email.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](tu_portfolio)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/edwin-jaret-reyes-l%EF%BF%BDpez-1b621a30b/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:utp0149483@alumno.utpuebla.edu.mx)
 
 </div>
 
@@ -77,7 +68,5 @@ public class SoftwareEngineer
 <div align="center">
   
   *"El buen código es su mejor documentación"*
-  
-  ![Snake animation](https://github.com/Edwin-Jaret/Edwin-Jaret/blob/output/github-contribution-grid-snake.svg)
-  
+    
 </div>
