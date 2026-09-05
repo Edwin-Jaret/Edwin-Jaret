@@ -1,12 +1,22 @@
-# [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=38C2FF&random=false&width=435&lines=¡Hola!+Soy+Edwin+Jaret+👋;Software+Engineer+💻;Gerente+de+Sistemas+🌐)](https://git.io/typing-svg)
+# [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=38C2FF&random=false&width=435&lines=%C2%A1Hola!+Soy+Edwin+Jaret+%F0%9F%91%8B;Software+Engineer+%F0%9F%92%BB;Gerente+de+Sistemas+%F0%9F%8C%90)](https://git.io/typing-svg)
 
 <div align="center">
-  <img src="https://img.shields.io/badge/-México-E50914?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAAACXBIWXMAAAsTAAALEwEAmpwYAAACrklEQVR4nO2Wu2sUURTGx0QTsRKNhSi+EAsLEUlhp4KgZSysBH+AFhYqqI02YqMoWAgq2GhlRLFQBAURK1/4KHwgGISYGPOKr6iPxPye7JnM7s7Mzk42FuKBy+7MPfe75/vOOXfHcf7nP0khA70YTi7gZpK1SbfLiR3oxwKOo5hXUAtlMI4iLsaE34qDWJ8k/Dr24Qc+YBnL8BaP8RUDcT1RxKUk8Mu4jw8YE/ASTAgDWMIjfMIChqR8PuEVirFABnEhSfgHvMMIFqFPjJjEO3zEJHpQi024h8+x4Is4nwR+Bu/xXGqfwwHplFHVhWMFz/BF75OSiKlgFpf1gVHnl/DcpLYtAuBB+ZvELVzBD7kkZkY9kh1IB7/mMk3j1NrxCLXPfZhb8qJbSr2XNLFGt9OUQIjw7doHM+VR0hzkXWXg0V6gN6Q26uMRlnIk4RI93HCAQGMtUmb2qE44jUu4jI84h3V24Vst4kEVqx5Mh4SXojPQYPBxPjmD0zJi9xZ6D1tGlDfMIDMTyukiT6Lx1/oOUxJgUWuRV2EcV3EbGR0s3gTf9mKDX0W7dlIWLfZSHJD6LU5oMxaVhXspH9Y53KDHBaL4KCXUGxA+oGO53Z7HfhzSpmyzWZCq8gXhF2Nt6wlZVQrdUniSdmJvKIGlhHGHYs8K24vbsU0b8aHNGNVpiqrnFe+cYwNPohXHdLB0qSccndXDUZ+LxA7hm3Q5mR1Y9K/gNnwv4S/UPDToPAapcyXkHZaxCM3O34XDOj2NCkRE6oq04Cna0KK+zxmV8QTt0SgJlm0q3xwOq9p23ERH3Dj+s+QmcQ+tOqOT2Iz1qvsBXdMFPNWnxlWH+xpONp19DQlsU/vdLYUa0v2P//EcZzoLEkQaqJ0AAAAASUVORK5CYII=">
+  <img src="https://img.shields.io/badge/-M%C3%A9xico-E50914?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAAACXBIWXMAAAsTAAALEwEAmpwYAAACrklEQVR4nO2Wu2sUURTGx0QTsRKNhSi+EAsLEUlhp4KgZSysBH+AFhYqqI02YqMoWAgq2GhlRLFQBAURK1/4KHwgGISYGPOKr6iPxPye7JnM7s7Mzk42FuKBy+7MPfe75/vOOXfHcf7nP0khA70YTi7gZpK1SbfLiR3oxwKOo5hXUAtlMI4iLsaE34qDWJ8k/Dr24Qc+YBnL8BaP8RUDcT1RxKUk8Mu4jw8YE/ASTAgDWMIjfMIChqR8PuEVirFABnEhSfgHvMMIFqFPjJjEO3zEJHpQi024h8+x4Is4nwR+Bu/xXGqfwwHplFHVhWMFz/BF75OSiKlgFpf1gVHnl/DcpLYtAuBB+ZvELVzBD7kkZkY9kh1IB7/mMk3j1NrxCLXPfZhb8qJbSr2XNLFGt9OUQIjw7doHM+VR0hzkXWXg0V6gN6Q26uMRlnIk4RI93HCAQGMtUmb2qE44jUu4jI84h3V24Vst4kEVqx5Mh4SXojPQYPBxPjmD0zJi9xZ6D1tGlDfMIDMTyukiT6Lx1/oOUxJgUWuRV2EcV3EbGR0s3gTf9mKDX0W7dlIWLfZSHJD6LU5oMxaVhXspH9Y53KDHBaL4KCXUGxA+oGO53Z7HfhzSpmyzWZCq8gXhF2Nt6wlZVQrdUniSdmJvKIGlhHGHYs8K24vbsU0b8aHNGNVpiqrnFe+cYwNPohXHdLB0qSccndXDUZ+LxA7hm3Q5mR1Y9K/gNnwv4S/UPDToPAapcyXkHZaxCM3O34XDOj2NCkRE6oq04Cna0KK+zxmV8QTt0SgJlm0q3xwOq9p23ERH3Dj+s+QmcQ+tOqOT2Iz1qvsBXdMFPNWnxlWH+xpONp19DQlsU/vdLYUa0v2P//EcZzoLEkQaqJ0AAAAASUVORK5CYII=" alt="México">
+  &nbsp;
+  <img src="https://img.shields.io/badge/Puebla-181717?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Puebla">
+  &nbsp;
+  <img src="https://komarev.com/ghpvc/?username=Edwin-Jaret&label=Visitas%20al%20perfil&color=38C2FF&style=for-the-badge" alt="Vistas de perfil">
 </div>
 
+<br>
+
 <div align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" alt="Coding gif">
 </div>
+
+### 👋 Sobre mí
+
+Soy **Edwin Jaret Reyes López**, Gerente de Sistemas en **Suzuki (Grupo Excelencia)** y co-fundador de **DevStack Studio**, una micro-agencia enfocada en desarrollo web a medida. Disfruto tanto de construir aplicaciones con .NET y React como de mantener la infraestructura y redes que las sostienen.
 
 ```csharp
 public class SoftwareEngineer
@@ -14,21 +24,29 @@ public class SoftwareEngineer
     public string Name { get; set; } = "Edwin Jaret Reyes López";
     public string CurrentRole { get; set; } = "Gerente de Sistemas @ Suzuki (Grupo Excelencia)";
     public string Entrepreneurship { get; set; } = "Co-founder & Lead Developer @ DevStack Studio";
+    public string Location { get; set; } = "Puebla, México";
+
     public Dictionary<string, string[]> Skills { get; set; } = new()
     {
-        { "Frontend", new[] { "React", "Next.js", "Tailwind CSS", "JavaScript" } },
-        { "Backend", new[] { "C#", ".NET", "Python", "PHP" } },
-        { "Database", new[] { "SQL Server", "MySQL" } },
+        { "Frontend",       new[] { "React", "Next.js", "Tailwind CSS", "JavaScript" } },
+        { "Backend",        new[] { "C#", ".NET", "Python", "PHP" } },
+        { "Database",       new[] { "SQL Server", "MySQL" } },
         { "Infrastructure", new[] { "Fortinet", "VPNs", "Networking" } }
     };
-    public string Location { get; set; } = "Puebla, México";
 }
 ```
 
-## 🚀 Tecnologías y Herramientas
+## 🔭 Ahora mismo
+
+- 🏢 Administrando la infraestructura y sistemas de **Suzuki (Grupo Excelencia)**
+- 🚀 Construyendo proyectos a medida en **DevStack Studio**
+- 🌱 Profundizando en **Next.js** y arquitecturas cloud
+- 💬 Pregúntame sobre **.NET, redes/Fortinet o arquitectura de aplicaciones web**
+
+## 🚀 Tecnologías y herramientas
 
 <div align="center">
-  
+
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -44,12 +62,16 @@ public class SoftwareEngineer
 
 </div>
 
-## 💻 Proyectos Destacados
+## 💻 Proyectos destacados
 
-* **DevStack Studio:** Micro-agencia de desarrollo de software enfocada en aplicaciones web a medida y soluciones digitales.
-* **SYSTEMWOODS IA:** Plataforma web desplegada para configuraciones personalizadas de sensibilidad en juegos móviles.
-* **Gestión Escolar PWA:** Arquitectura y desarrollo de una Progressive Web App para la gestión de módulos educativos y roles de usuario.
-* **Sistema POS:** Documentación y especificación de requerimientos para un sistema de punto de venta y control de inventario local.
+| Proyecto | Descripción | Stack |
+|---|---|---|
+| **DevStack Studio** | Micro-agencia de desarrollo de software enfocada en aplicaciones web a medida y soluciones digitales. | React · Next.js · .NET |
+| **SYSTEMWOODS IA** | Plataforma web desplegada para configuraciones personalizadas de sensibilidad en juegos móviles. | — |
+| **Gestión Escolar PWA** | Arquitectura y desarrollo de una Progressive Web App para la gestión de módulos educativos y roles de usuario. | React · PWA |
+| **Sistema POS** | Documentación y especificación de requerimientos para un sistema de punto de venta y control de inventario local. | — |
+
+> 💡 Añade el enlace al repo de cada proyecto envolviendo el nombre en `[Nombre](https://github.com/tu-usuario/tu-repo)` en cuanto los tengas públicos — así los visitantes pueden entrar directo al código.
 
 ## 🏆 Trofeos de GitHub
 
@@ -59,10 +81,10 @@ public class SoftwareEngineer
   </a>
 </div>
 
-## 📊 Estadísticas y Commits
+## 📊 Estadísticas y commits
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Edwin-Jaret&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="Estadisticas" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Edwin-Jaret&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="Estadísticas" />
   <img src="https://streak-stats.demolab.com?user=Edwin-Jaret&theme=tokyonight" alt="Racha" />
 </div>
 <br>
@@ -73,8 +95,8 @@ public class SoftwareEngineer
 ## 📫 Contacto
 
 <div align="center">
-  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/edwin-jaret-reyes-l%EF%BF%BDpez-1b621a30b/)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/edwin-jaret-reyes-lopez-1b621a30b/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:utp0149483@alumno.utpuebla.edu.mx)
 
 </div>
@@ -82,11 +104,7 @@ public class SoftwareEngineer
 ---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Edwin-Jaret&label=Profile%20views&color=0e75b6&style=flat" alt="Vistas de perfil" />
-</div>
 
-<div align="center">
-  
-  *"El buen código es su mejor documentación"*
-    
+*"El buen código es su mejor documentación"*
+
 </div>
