@@ -62,12 +62,12 @@ public class SoftwareEngineer
 ## 📊 Estadísticas y Commits
 
 <div align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=Edwin-Jaret&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="Estadisticas" />
-  <img height="180" src="https://streak-stats.demolab.com?user=Edwin-Jaret&theme=tokyonight" alt="Racha" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Edwin-Jaret&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="Estadisticas" />
+  <img src="https://streak-stats.demolab.com?user=Edwin-Jaret&theme=tokyonight" alt="Racha" />
 </div>
 <br>
 <div align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Edwin-Jaret&layout=compact&langs_count=7&theme=tokyonight" alt="Lenguajes" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Edwin-Jaret&layout=compact&langs_count=7&theme=tokyonight" alt="Lenguajes" />
 </div>
 
 ## 📫 Contacto
