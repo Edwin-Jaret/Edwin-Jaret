@@ -23,7 +23,7 @@ public class SoftwareEngineer
 {
     public string Name { get; set; } = "Edwin Jaret Reyes López";
     public string CurrentRole { get; set; } = "Gerente de Sistemas @ Suzuki (Grupo Excelencia)";
-    public string Entrepreneurship { get; set; } = "Co-founder & Lead Developer @ DevStack Studio";
+    public string Entrepreneurship { get; set; } = "founder & Lead Developer @ DevStack Studio";
     public string Location { get; set; } = "Puebla, México";
 
     public Dictionary<string, string[]> Skills { get; set; } = new()
@@ -66,12 +66,11 @@ public class SoftwareEngineer
 
 | Proyecto | Descripción | Stack |
 |---|---|---|
-| **DevStack Studio** | Micro-agencia de desarrollo de software enfocada en aplicaciones web a medida y soluciones digitales. | React · Next.js · .NET |
+| **[DevStack Studio](https://www.devstackstudio.com.mx/)** | Micro-agencia de desarrollo de software enfocada en aplicaciones web a medida y soluciones digitales. | React · Next.js · .NET |
 | **SYSTEMWOODS IA** | Plataforma web desplegada para configuraciones personalizadas de sensibilidad en juegos móviles. | — |
 | **Gestión Escolar PWA** | Arquitectura y desarrollo de una Progressive Web App para la gestión de módulos educativos y roles de usuario. | React · PWA |
 | **Sistema POS** | Documentación y especificación de requerimientos para un sistema de punto de venta y control de inventario local. | — |
 
-> 💡 Añade el enlace al repo de cada proyecto envolviendo el nombre en `[Nombre](https://github.com/tu-usuario/tu-repo)` en cuanto los tengas públicos — así los visitantes pueden entrar directo al código.
 
 ## 🏆 Trofeos de GitHub
 
@@ -96,8 +95,9 @@ public class SoftwareEngineer
 
 <div align="center">
 
+[![DevStack Studio](https://img.shields.io/badge/DevStack_Studio-38C2FF?style=for-the-badge&logo=googlechrome&logoColor=white)](https://www.devstackstudio.com.mx/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/edwin-jaret-reyes-lopez-1b621a30b/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:utp0149483@alumno.utpuebla.edu.mx)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:edwinjaretreyes@gmail.com)
 
 </div>
 
