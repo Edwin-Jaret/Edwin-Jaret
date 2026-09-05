@@ -16,7 +16,7 @@
 
 ### 👋 Sobre mí
 
-Soy **Edwin Jaret Reyes López**, Gerente de Sistemas en **Suzuki (Grupo Excelencia)** y co-fundador de **DevStack Studio**, una micro-agencia enfocada en desarrollo web a medida. Disfruto tanto de construir aplicaciones con .NET y React como de mantener la infraestructura y redes que las sostienen.
+Soy **Edwin Jaret Reyes López**, Gerente de Sistemas en **Suzuki (Grupo Excelencia)** y fundador de **DevStack Studio**, una micro-agencia enfocada en desarrollo web a medida. Disfruto tanto de construir aplicaciones con .NET y React como de mantener la infraestructura y redes que las sostienen.
 
 ```csharp
 public class SoftwareEngineer
